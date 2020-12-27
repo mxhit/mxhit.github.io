@@ -1,0 +1,48 @@
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.roboto-mono {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.raleway {
+    font-family: 'Raleway', sans-serif;
+}
+
+.lato {
+    font-family: 'Lato', sans-serif;
+}
+
+.border-top-bottom {
+    border: 3px black;
+    border-style: solid none;
+    border-width: 0 5px;
+}
+
+.text-orange {
+    color: #f2511b;
+}
+
+.section-footer {
+    margin-top: 40px;
+    width: 5%;
+    margin-bottom: 40px;
+}
+
+.section-header {
+    margin-bottom: 40px;
+    width: 5%;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.publication-link {
+    margin-top: 1rem;
+}
+
+.social-icon {
+    padding-right: 2px;
+}
