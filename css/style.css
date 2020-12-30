@@ -46,3 +46,8 @@ a {
 .social-icon {
     padding-right: 2px;
 }
+
+.dark-mode {
+    background-color: #000000;
+    color: white;
+}
