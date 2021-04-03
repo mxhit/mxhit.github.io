@@ -9,6 +9,8 @@ $(document).ready(function () {
     }
 
     document.getElementById("dark-mode-switch").checked = false;
+    document.getElementById("navbar").classList.add("navbar-light");
+    document.getElementById("navbar").classList.add("bg-light");
 });
 
 function darkModeToggle() {
@@ -20,7 +22,20 @@ function darkModeToggle() {
     var darkModeSwitch = document.getElementById("dark-mode-switch");
     if (darkModeSwitch.checked) {
         switchLabel.textContent = "🌙";
+
+        document.getElementById("navbar").classList.remove("navbar-light");
+        document.getElementById("navbar").classList.remove("bg-light");
+
+
+        document.getElementById("navbar").classList.add("navbar-dark");
+        document.getElementById("navbar").classList.add("bg-dark");
     } else {
         switchLabel.textContent = "☀️";
+
+        document.getElementById("navbar").classList.remove("navbar-dark");
+        document.getElementById("navbar").classList.remove("bg-dark");
+        
+        document.getElementById("navbar").classList.add("navbar-light");
+        document.getElementById("navbar").classList.add("bg-light");
     }
 }

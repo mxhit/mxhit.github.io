@@ -1,3 +1,7 @@
+html, body {
+    background-color: white;
+}
+
 .roboto {
     font-family: 'Roboto', sans-serif;
 }
@@ -50,4 +54,20 @@ a {
 .dark-mode {
     background-color: #000000;
     color: white;
+}
+
+.text-honeydew {
+    color: #E5F4E3;
+}
+
+.text-bluejeans {
+    color: #5DA9E9;
+}
+
+.text-darkcornflowerblue {
+    color: #003F91;
+}
+
+.text-palatinate-purple {
+    color: #6D326D;
 }
