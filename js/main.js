@@ -9,6 +9,8 @@ $(document).ready(function () {
     }
 
     document.getElementById("dark-mode-switch").checked = false;
+
+    // $('#dark-mode-switch').click(); // use this to open the site with dark mode
 });
 
 function darkModeToggle() {
