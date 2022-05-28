@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mohit Dodhia</title>
+    <link>http://mxhit.github.io/</link>
+    <description>Recent content on Mohit Dodhia</description>
+    <image>
+      <url>http://mxhit.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://mxhit.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Mar 2022 17:47:19 +0530</lastBuildDate><atom:link href="http://mxhit.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring ECMAScript6</title>
+      <link>http://mxhit.github.io/posts/exploring-ecmascript6/</link>
+      <pubDate>Mon, 28 Mar 2022 17:47:19 +0530</pubDate>
+      
+      <guid>http://mxhit.github.io/posts/exploring-ecmascript6/</guid>
+      <description>In my almost three years of experience as a Java developer, I have hardly been exposed to working with front-end technologies. A little JSP here, a tad bit of CSS there, and the occasional $(&amp;quot;#div&amp;quot;).modal() while debugging to check whether my modals were showing up correctly or not. In conclusion, very elementary. However, I switched my job after two years and currently I am working with a legacy application that employs Core Java for the back-end and Angular.</description>
+    </item>
+    
+    <item>
+      <title>Brief Stint with the #100DaysOfCode Challenge</title>
+      <link>http://mxhit.github.io/posts/brief-stint-with-100doc/</link>
+      <pubDate>Wed, 17 Nov 2021 19:30:48 +0530</pubDate>
+      
+      <guid>http://mxhit.github.io/posts/brief-stint-with-100doc/</guid>
+      <description>The easiest part about the #100DaysOfCode Challenge is taking up the challenge. The harder part is committing to it while coming up with new ideas for each day; it’s both exciting and daunting. I experienced this for the first time when I publicly committed to the challenge on Twitter. It is generally advised to have a rough map of ideas ready when taking up the challenge but I took a different approach of establishing rules simply because I need to fall in line with them while developing things every day.</description>
+    </item>
+    
+  </channel>
+</rss>
