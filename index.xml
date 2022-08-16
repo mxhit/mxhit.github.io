@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 May 2022 14:23:56 +0530</lastBuildDate><atom:link href="http://mxhit.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Aug 2022 22:14:59 +0530</lastBuildDate><atom:link href="http://mxhit.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javascript Rant</title>
+      <link>http://mxhit.github.io/posts/javascript-rant/</link>
+      <pubDate>Tue, 16 Aug 2022 22:14:59 +0530</pubDate>
+      
+      <guid>http://mxhit.github.io/posts/javascript-rant/</guid>
+      <description>If you were to believe the Tech Twitter gyaandus, JavaScript is probably the best language out there which can be used for all your programming needs. I feel this is misleading and enforces why you should always do your due diligence instead of blindly accepting their opinions.
+JavaScript, like many programming languages, was created to solve a problem. A solution for a specific problem or a set of similar problems cannot be used for all the problems you will encounter in the tech industry.</description>
+    </item>
+    
     <item>
       <title>Charlatans of Web3</title>
       <link>http://mxhit.github.io/posts/charlatans-of-web3/</link>
