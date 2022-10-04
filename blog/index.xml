@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Mohit Dodhia</title>
-    <link>http://mxhit.github.io/</link>
-    <description>Recent content on Mohit Dodhia</description>
+    <title>Blogs on Mohit Dodhia</title>
+    <link>http://mxhit.github.io/blog/</link>
+    <description>Recent content in Blogs on Mohit Dodhia</description>
     <image>
       <url>http://mxhit.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://mxhit.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Aug 2022 22:14:59 +0530</lastBuildDate><atom:link href="http://mxhit.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Aug 2022 22:14:59 +0530</lastBuildDate><atom:link href="http://mxhit.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Javascript Rant</title>
       <link>http://mxhit.github.io/blog/javascript-rant/</link>
@@ -46,28 +46,6 @@ JavaScript, like many programming languages, was created to solve a problem. A s
       
       <guid>http://mxhit.github.io/blog/brief-stint-with-100doc/</guid>
       <description>The easiest part about the #100DaysOfCode Challenge is taking up the challenge. The harder part is committing to it while coming up with new ideas for each day; it’s both exciting and daunting. I experienced this for the first time when I publicly committed to the challenge on Twitter. It is generally advised to have a rough map of ideas ready when taking up the challenge but I took a different approach of establishing rules simply because I need to fall in line with them while developing things every day.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>http://mxhit.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mxhit.github.io/about/</guid>
-      <description>I am a Senior Systems Engineer currently working at Infosys. I enjoy developing ideas into hobby projects.
-I graduated with a Bachelor&amp;rsquo;s in Computer Science and Technology from SRM Institute of Science and Technology, Chennai in 2019.</description>
-    </item>
-    
-    <item>
-      <title>Testimonials</title>
-      <link>http://mxhit.github.io/testimonials/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mxhit.github.io/testimonials/</guid>
-      <description>Jigar Parekh, HR Manager @ Shukul Infotech Pvt. Ltd.
- Mohit has been one of the most sincere and dedicated employee in the company where I have served as HR. He is highly skilled and technically strong in his area of work of Development! Highly recommended!
-  Subhajit Mukherjee, Technology Lead @ Infosys
- Mohit is great learner, flexible, focused and great team player. Mohit worked under my team directly near about 1.</description>
     </item>
     
   </channel>
