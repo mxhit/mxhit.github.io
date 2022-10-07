@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Aug 2022 22:14:59 +0530</lastBuildDate><atom:link href="http://mxhit.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Oct 2022 12:11:28 +0530</lastBuildDate><atom:link href="http://mxhit.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating to GitHub Pages</title>
+      <link>http://mxhit.github.io/blog/migrating-to-github-pages/</link>
+      <pubDate>Wed, 05 Oct 2022 12:11:28 +0530</pubDate>
+      
+      <guid>http://mxhit.github.io/blog/migrating-to-github-pages/</guid>
+      <description>TL;DR: The website logistically didn&amp;rsquo;t make sense, especially with this blog being hosted on GitHub Pages and only accessible through the website.
+ After a good deal of consideration, I finally pulled the plug on my website which was hosted on the domain www.mxhit.dev. This website was up and running for only a year but the decision to migrate was based on first principles of software engineering &amp;ndash; this should have been my approach from the beginning however my reasons at the time were valid.</description>
+    </item>
+    
     <item>
       <title>JavaScript Rant</title>
       <link>http://mxhit.github.io/blog/javascript-rant/</link>
@@ -54,8 +64,9 @@ JavaScript, like many programming languages, was created to solve a problem. A s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mxhit.github.io/about/</guid>
-      <description>I am a Senior Systems Engineer currently working at Infosys. I enjoy developing ideas into hobby projects.
-I graduated with a Bachelor&amp;rsquo;s in Computer Science and Technology from SRM Institute of Science and Technology, Chennai in 2019.</description>
+      <description>I am currently working at Infosys as a Senior Systems Engineer.
+I graduated with a Bachelor&amp;rsquo;s in Computer Science and Technology from SRM Institute of Science and Technology, Chennai in 2019.
+ How did I decide to become a Software Engineer? I would consider my introduction to programming through MSW Logo &amp;ndash; something about making different shapes by typing a few commands had blown me away as a child. It was not until 9th grade, when I was introduced to Java, that I truly started enjoying writing code.</description>
     </item>
     
     <item>
@@ -64,10 +75,9 @@ I graduated with a Bachelor&amp;rsquo;s in Computer Science and Technology from 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mxhit.github.io/testimonials/</guid>
-      <description>Jigar Parekh, HR Manager @ Shukul Infotech Pvt. Ltd.
- Mohit has been one of the most sincere and dedicated employee in the company where I have served as HR. He is highly skilled and technically strong in his area of work of Development! Highly recommended!
-  Subhajit Mukherjee, Technology Lead @ Infosys
- Mohit is great learner, flexible, focused and great team player. Mohit worked under my team directly near about 1.</description>
+      <description>Subhajit Mukherjee, Technology Lead @ Infosys
+ Mohit is great learner, flexible, focused and great team player. Mohit worked under my team directly near about 1.5 years. It was my pleasure to work with him/managing him directly. I never faced any problems/issues from his end during our work span. I would like to work with him in my team near future if I get any chance.
+  Jigar Parekh, HR Manager @ Shukul Infotech Pvt.</description>
     </item>
     
   </channel>

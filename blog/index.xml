@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Aug 2022 22:14:59 +0530</lastBuildDate><atom:link href="http://mxhit.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Oct 2022 12:11:28 +0530</lastBuildDate><atom:link href="http://mxhit.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating to GitHub Pages</title>
+      <link>http://mxhit.github.io/blog/migrating-to-github-pages/</link>
+      <pubDate>Wed, 05 Oct 2022 12:11:28 +0530</pubDate>
+      
+      <guid>http://mxhit.github.io/blog/migrating-to-github-pages/</guid>
+      <description>TL;DR: The website logistically didn&amp;rsquo;t make sense, especially with this blog being hosted on GitHub Pages and only accessible through the website.
+ After a good deal of consideration, I finally pulled the plug on my website which was hosted on the domain www.mxhit.dev. This website was up and running for only a year but the decision to migrate was based on first principles of software engineering &amp;ndash; this should have been my approach from the beginning however my reasons at the time were valid.</description>
+    </item>
+    
     <item>
       <title>JavaScript Rant</title>
       <link>http://mxhit.github.io/blog/javascript-rant/</link>
