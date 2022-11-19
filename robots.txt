@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://mxhit.github.io/sitemap.xml
+Sitemap: http://dodhia.in/sitemap.xml

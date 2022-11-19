@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on Mohit Dodhia</title>
-    <link>http://mxhit.github.io/blog/</link>
+    <link>http://dodhia.in/blog/</link>
     <description>Recent content in Blogs on Mohit Dodhia</description>
     <image>
-      <url>http://mxhit.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://mxhit.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://dodhia.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://dodhia.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Oct 2022 12:11:28 +0530</lastBuildDate><atom:link href="http://mxhit.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Oct 2022 12:11:28 +0530</lastBuildDate><atom:link href="http://dodhia.in/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migrating to GitHub Pages</title>
-      <link>http://mxhit.github.io/blog/migrating-to-github-pages/</link>
+      <link>http://dodhia.in/blog/migrating-to-github-pages/</link>
       <pubDate>Wed, 05 Oct 2022 12:11:28 +0530</pubDate>
       
-      <guid>http://mxhit.github.io/blog/migrating-to-github-pages/</guid>
+      <guid>http://dodhia.in/blog/migrating-to-github-pages/</guid>
       <description>TL;DR: The website logistically didn&amp;rsquo;t make sense, especially with this blog being hosted on GitHub Pages and only accessible through the website.
  After a good deal of consideration, I finally pulled the plug on my website which was hosted on the domain www.mxhit.dev. This website was up and running for only a year but the decision to migrate was based on first principles of software engineering &amp;ndash; this should have been my approach from the beginning however my reasons at the time were valid.</description>
     </item>
     
     <item>
       <title>JavaScript Rant</title>
-      <link>http://mxhit.github.io/blog/javascript-rant/</link>
+      <link>http://dodhia.in/blog/javascript-rant/</link>
       <pubDate>Tue, 16 Aug 2022 22:14:59 +0530</pubDate>
       
-      <guid>http://mxhit.github.io/blog/javascript-rant/</guid>
+      <guid>http://dodhia.in/blog/javascript-rant/</guid>
       <description>If you were to believe the Tech Twitter gyaandus, JavaScript is probably the best language out there which can be used for all your programming needs. I feel this is misleading and enforces why you should always do your due diligence instead of blindly accepting their opinions.
 JavaScript, like many programming languages, was created to solve a problem. A solution for a specific problem or a set of similar problems cannot be used for all the problems you will encounter in the tech industry.</description>
     </item>
     
     <item>
       <title>Charlatans of Web3</title>
-      <link>http://mxhit.github.io/blog/charlatans-of-web3/</link>
+      <link>http://dodhia.in/blog/charlatans-of-web3/</link>
       <pubDate>Sun, 29 May 2022 14:23:56 +0530</pubDate>
       
-      <guid>http://mxhit.github.io/blog/charlatans-of-web3/</guid>
+      <guid>http://dodhia.in/blog/charlatans-of-web3/</guid>
       <description>Web 3.0, commonly referred to as Web3, has become quite the catchphrase on the internet. For those of you who don&amp;rsquo;t know what Web3 is, it&amp;rsquo;s a proposed iteration of the World Wide Web based on the Blockchain technology. Tech communities across several platforms have been bandwagoning it as if it will be the ultimate form of the Internet that fuels our lives. I don&amp;rsquo;t feel this way; in fact I have a lot of concerns due to the nature of Blockchain technologies &amp;ndash; more on this later.</description>
     </item>
     
     <item>
       <title>Exploring ECMAScript6</title>
-      <link>http://mxhit.github.io/blog/exploring-ecmascript6/</link>
+      <link>http://dodhia.in/blog/exploring-ecmascript6/</link>
       <pubDate>Mon, 28 Mar 2022 17:47:19 +0530</pubDate>
       
-      <guid>http://mxhit.github.io/blog/exploring-ecmascript6/</guid>
+      <guid>http://dodhia.in/blog/exploring-ecmascript6/</guid>
       <description>In my almost three years of experience as a Java developer, I have hardly been exposed to working with front-end technologies. A little JSP here, a tad bit of CSS there, and the occasional $(&amp;quot;#div&amp;quot;).modal() while debugging to check whether my modals were showing up correctly or not. In conclusion, very elementary. However, I switched my job after two years and currently I am working with a legacy application that employs Core Java for the back-end and Angular.</description>
     </item>
     
     <item>
       <title>Brief Stint with the #100DaysOfCode Challenge</title>
-      <link>http://mxhit.github.io/blog/brief-stint-with-100doc/</link>
+      <link>http://dodhia.in/blog/brief-stint-with-100doc/</link>
       <pubDate>Wed, 17 Nov 2021 19:30:48 +0530</pubDate>
       
-      <guid>http://mxhit.github.io/blog/brief-stint-with-100doc/</guid>
+      <guid>http://dodhia.in/blog/brief-stint-with-100doc/</guid>
       <description>The easiest part about the #100DaysOfCode Challenge is taking up the challenge. The harder part is committing to it while coming up with new ideas for each day; it’s both exciting and daunting. I experienced this for the first time when I publicly committed to the challenge on Twitter. It is generally advised to have a rough map of ideas ready when taking up the challenge but I took a different approach of establishing rules simply because I need to fall in line with them while developing things every day.</description>
     </item>
     
