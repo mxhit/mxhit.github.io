@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Oct 2022 12:11:28 +0530</lastBuildDate><atom:link href="http://dodhia.in/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Nov 2022 00:07:19 +0530</lastBuildDate><atom:link href="http://dodhia.in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Danke Seb</title>
+      <link>http://dodhia.in/blog/danke-seb/</link>
+      <pubDate>Mon, 21 Nov 2022 00:07:19 +0530</pubDate>
+      
+      <guid>http://dodhia.in/blog/danke-seb/</guid>
+      <description>TL;DR: Sebastian Vettel has retired from Formula One and I am very sad.
+ To give you some perspective, I started watching Formula One after the summer break of the 2018 season. Being a new follower of the sport, I was busy learning and remembering names, rules and concepts that were being thrown my way. As the season progressed towards the finale, I couldn&amp;rsquo;t help but naturally get drawn to two drivers: Charles Leclerc and Sebastian Vettel.</description>
+    </item>
+    
     <item>
       <title>Migrating to GitHub Pages</title>
       <link>http://dodhia.in/blog/migrating-to-github-pages/</link>
