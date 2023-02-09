@@ -2,13 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Mohit Dodhia</title>
-    <link>http://dodhia.in/tags/</link>
+    <link>https://dodhia.in/tags/</link>
     <description>Recent content in Tags on Mohit Dodhia</description>
     <image>
-      <url>http://dodhia.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://dodhia.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://dodhia.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dodhia.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://dodhia.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Nov 2022 23:57:19 +0530</lastBuildDate><atom:link href="https://dodhia.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>f1</title>
+      <link>https://dodhia.in/tags/f1/</link>
+      <pubDate>Sun, 20 Nov 2022 23:57:19 +0530</pubDate>
+      
+      <guid>https://dodhia.in/tags/f1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://dodhia.in/tags/javascript/</link>
+      <pubDate>Wed, 05 Oct 2022 12:11:28 +0530</pubDate>
+      
+      <guid>https://dodhia.in/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>netlify</title>
+      <link>https://dodhia.in/tags/netlify/</link>
+      <pubDate>Wed, 05 Oct 2022 12:11:28 +0530</pubDate>
+      
+      <guid>https://dodhia.in/tags/netlify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>react</title>
+      <link>https://dodhia.in/tags/react/</link>
+      <pubDate>Wed, 05 Oct 2022 12:11:28 +0530</pubDate>
+      
+      <guid>https://dodhia.in/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tailwind</title>
+      <link>https://dodhia.in/tags/tailwind/</link>
+      <pubDate>Wed, 05 Oct 2022 12:11:28 +0530</pubDate>
+      
+      <guid>https://dodhia.in/tags/tailwind/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
