@@ -20,5 +20,15 @@
       <description>These days opening Social Media feels like visiting a zoo, where you wander around aimlessly seeing what other animals are up to. The life of those animals don&amp;rsquo;t affect yours in the slightest yet you look at them for a few minutes and continue to the next enclosement until you run out of them, in which case you exit after spending a chunk of your time. I see little to no benefit in this pointless loitering.</description>
     </item>
     
+    <item>
+      <title>JavaScript Rant</title>
+      <link>https://dodhia.in/blog/javascript-rant/</link>
+      <pubDate>Tue, 16 Aug 2022 22:14:59 +0530</pubDate>
+      
+      <guid>https://dodhia.in/blog/javascript-rant/</guid>
+      <description>If you were to believe the Tech Twitter gyaandus, JavaScript is probably the best language out there which can be used for all your programming needs. I feel this is misleading and enforces why you should always do your due diligence instead of blindly accepting their opinions.
+JavaScript, like many programming languages, was created to solve a problem. A solution for a specific problem or a set of similar problems cannot be used for all the problems you will encounter in the tech industry.</description>
+    </item>
+    
   </channel>
 </rss>
