@@ -1,24 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mohit Dodhia</title>
     <link>https://dodhia.in/</link>
     <description>Recent content on Mohit Dodhia</description>
-    <image>
-      <url>https://dodhia.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://dodhia.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Apr 2023 20:37:35 +0530</lastBuildDate><atom:link href="https://dodhia.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Contact</title>
+      <link>https://dodhia.in/contact/</link>
+      <pubDate>Wed, 27 Sep 2023 22:12:09 +0530</pubDate>
+      
+      <guid>https://dodhia.in/contact/</guid>
+      <description> GitHub  LinkedIn  Goodreads  Email   </description>
+    </item>
+    
+    <item>
       <title>Links</title>
-      <link>https://dodhia.in/links/</link>
+      <link>https://dodhia.in/bookmarks/</link>
       <pubDate>Sun, 06 Aug 2023 10:46:33 +0530</pubDate>
       
-      <guid>https://dodhia.in/links/</guid>
+      <guid>https://dodhia.in/bookmarks/</guid>
       <description>A compilation of links I found interesting.
-Blogs  The worst mistake of computer science This time, it feels different Reading the Mahabharata by the Tungabhadra Scaling with common sense Unpopular tech/software engineering opinions - 2022 edition Leave Scrum to Rugby, I Like Getting Stuff Done Your Manager Can’t Code? They Shouldn’t Be Your Manager  </description>
+Blogs  The worst mistake of computer science  This time, it feels different  Reading the Mahabharata by the Tungabhadra  Scaling with common sense  Unpopular tech/software engineering opinions - 2022 edition  Leave Scrum to Rugby, I Like Getting Stuff Done  Your Manager Can’t Code? They Shouldn’t Be Your Manager   </description>
     </item>
     
     <item>
@@ -98,32 +103,24 @@ JavaScript, like many programming languages, was created to solve a problem. A s
     </item>
     
     <item>
-      <title>About Me</title>
-      <link>https://dodhia.in/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dodhia.in/about/</guid>
-      <description>I am currently working at SAS as a Senior Associate Software Developer.
-I graduated with a Bachelor&amp;rsquo;s in Computer Science and Engineering from SRM Institute of Science and Technology, Chennai in 2019.
- Why I became a Software Engineer? I would consider my introduction to programming through MSW Logo &amp;ndash; something about making different shapes by typing a few commands had blown me away as a child. It was not until 9th grade, when I was introduced to Java, that I truly started enjoying writing code.</description>
-    </item>
-    
-    <item>
       <title>Projects</title>
       <link>https://dodhia.in/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dodhia.in/projects/</guid>
-      <description>This page contains a list of projects (finished and ongoing) developed over a period of time. Demo links may not be available for all projects listed here.</description>
+      <description>Portfolio Website + Blog  The website you are currently reading on. Developed using Hugo with the PaperMod theme.  Personal Website  Developed a single-page website by tinkering with React.js and TailwindCSS . Deployed the website using Netlify . This website has been deprecated. Read more about it here . GitHub Repository  Demo Link   JWT using Spring Security  The aim of this project was to tinker around with Spring Security and implement JWT -based Authentication and Authorization using user-defined roles.</description>
     </item>
     
     <item>
       <title>Proof of Work</title>
-      <link>https://dodhia.in/proofofwork/</link>
+      <link>https://dodhia.in/work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dodhia.in/proofofwork/</guid>
-      <description>[Last updated on 23/09/2023]</description>
+      <guid>https://dodhia.in/work/</guid>
+      <description>SAS Senior Associate Software Developer Sep 2023-Present
+ Infosys Ltd. Technology Analyst Jan 2023-Sep 2023
+ Enhanced and facilitated the introduction of new steel materials in ArcelorMittal&amp;rsquo;s Sales Portal: CoMet2. Investigated and strategised a performance improvement plan for a data-intensive process.  Senior Systems Engineer Jul 2022-Dec 2022
+ Successfully introduced two new metal shapes for quality material, within a span of 6 months, in CoMet2 with zero down-time and defects.</description>
     </item>
     
   </channel>
