@@ -8,16 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Apr 2023 20:37:35 +0530</lastBuildDate><atom:link href="https://dodhia.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bookmarks</title>
-      <link>https://dodhia.in/bookmarks/</link>
-      <pubDate>Sun, 06 Aug 2023 10:46:33 +0530</pubDate>
-      
-      <guid>https://dodhia.in/bookmarks/</guid>
-      <description>A compilation of links I found interesting.
-Blogs  The worst mistake of computer science  This time, it feels different  Reading the Mahabharata by the Tungabhadra  Scaling with common sense  Unpopular tech/software engineering opinions - 2022 edition  Leave Scrum to Rugby, I Like Getting Stuff Done  Your Manager Can’t Code? They Shouldn’t Be Your Manager   </description>
-    </item>
-    
-    <item>
       <title>Social Media Rant</title>
       <link>https://dodhia.in/blog/social-media-rant/</link>
       <pubDate>Thu, 06 Apr 2023 20:37:35 +0530</pubDate>
@@ -91,6 +81,15 @@ JavaScript, like many programming languages, was created to solve a problem. A s
       
       <guid>https://dodhia.in/blog/brief-stint-with-100doc/</guid>
       <description>The easiest part about the #100DaysOfCode Challenge is taking up the challenge. The harder part is committing to it while coming up with new ideas for each day; it’s both exciting and daunting. I experienced this for the first time when I publicly committed to the challenge on Twitter. It is generally advised to have a rough map of ideas ready when taking up the challenge but I took a different approach of establishing rules simply because I need to fall in line with them while developing things every day.</description>
+    </item>
+    
+    <item>
+      <title>Bookmarks</title>
+      <link>https://dodhia.in/bookmarks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dodhia.in/bookmarks/</guid>
+      <description>Blogs  The worst mistake of computer science  This time, it feels different  Reading the Mahabharata by the Tungabhadra  Scaling with common sense  Unpopular tech/software engineering opinions - 2022 edition  Leave Scrum to Rugby, I Like Getting Stuff Done  Your Manager Can’t Code? They Shouldn’t Be Your Manager   </description>
     </item>
     
     <item>
