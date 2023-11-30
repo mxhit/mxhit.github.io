@@ -27,14 +27,5 @@
 JavaScript, like many programming languages, was created to solve a problem. A solution for a specific problem or a set of similar problems cannot be used for all the problems you will encounter in the tech industry.</description>
     </item>
     
-    <item>
-      <title>Exploring ECMAScript6</title>
-      <link>https://dodhia.in/blog/exploring-ecmascript6/</link>
-      <pubDate>Mon, 28 Mar 2022 17:47:19 +0530</pubDate>
-      
-      <guid>https://dodhia.in/blog/exploring-ecmascript6/</guid>
-      <description>In my almost three years of experience as a Java developer, I have hardly been exposed to working with front-end technologies. A little JSP here, a tad bit of CSS there, and the occasional $(&amp;quot;#div&amp;quot;).modal() while debugging to check whether my modals were showing up correctly or not. In conclusion, very elementary. However, I switched my job after two years and currently I am working with a legacy application that employs Core Java for the back-end and Angular.</description>
-    </item>
-    
   </channel>
 </rss>

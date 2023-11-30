@@ -66,30 +66,12 @@ JavaScript, like many programming languages, was created to solve a problem. A s
     </item>
     
     <item>
-      <title>Exploring ECMAScript6</title>
-      <link>https://dodhia.in/blog/exploring-ecmascript6/</link>
-      <pubDate>Mon, 28 Mar 2022 17:47:19 +0530</pubDate>
-      
-      <guid>https://dodhia.in/blog/exploring-ecmascript6/</guid>
-      <description>In my almost three years of experience as a Java developer, I have hardly been exposed to working with front-end technologies. A little JSP here, a tad bit of CSS there, and the occasional $(&amp;quot;#div&amp;quot;).modal() while debugging to check whether my modals were showing up correctly or not. In conclusion, very elementary. However, I switched my job after two years and currently I am working with a legacy application that employs Core Java for the back-end and Angular.</description>
-    </item>
-    
-    <item>
-      <title>Brief Stint with the #100DaysOfCode Challenge</title>
-      <link>https://dodhia.in/blog/brief-stint-with-100doc/</link>
-      <pubDate>Wed, 17 Nov 2021 19:30:48 +0530</pubDate>
-      
-      <guid>https://dodhia.in/blog/brief-stint-with-100doc/</guid>
-      <description>The easiest part about the #100DaysOfCode Challenge is taking up the challenge. The harder part is committing to it while coming up with new ideas for each day; it’s both exciting and daunting. I experienced this for the first time when I publicly committed to the challenge on Twitter. It is generally advised to have a rough map of ideas ready when taking up the challenge but I took a different approach of establishing rules simply because I need to fall in line with them while developing things every day.</description>
-    </item>
-    
-    <item>
       <title>Bookmarks</title>
       <link>https://dodhia.in/bookmarks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dodhia.in/bookmarks/</guid>
-      <description>Blogs  The worst mistake of computer science  This time, it feels different  Reading the Mahabharata by the Tungabhadra  Scaling with common sense  Unpopular tech/software engineering opinions - 2022 edition  Leave Scrum to Rugby, I Like Getting Stuff Done  Your Manager Can’t Code? They Shouldn’t Be Your Manager  Why engineers should focus on writing   </description>
+      <description>Blogs  The worst mistake of computer science  This time, it feels different  Reading the Mahabharata by the Tungabhadra  Scaling with common sense  Unpopular tech/software engineering opinions - 2022 edition  Leave Scrum to Rugby, I Like Getting Stuff Done  Your Manager Can’t Code? They Shouldn’t Be Your Manager  Why engineers should focus on writing  Clear Writing by Shreyas Doshi  High Agency: what is it, why its important, and how to cultivate it   </description>
     </item>
     
     <item>
