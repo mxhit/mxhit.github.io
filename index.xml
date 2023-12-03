@@ -6,7 +6,17 @@
     <description>Recent content on Mohit Dodhia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Apr 2023 20:37:35 +0530</lastBuildDate><atom:link href="https://dodhia.in/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Dec 2023 17:16:44 +0530</lastBuildDate><atom:link href="https://dodhia.in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spotify Wrapped 2023</title>
+      <link>https://dodhia.in/blog/spotify-wrapped-2023/</link>
+      <pubDate>Fri, 01 Dec 2023 17:16:44 +0530</pubDate>
+      
+      <guid>https://dodhia.in/blog/spotify-wrapped-2023/</guid>
+      <description>I can&amp;rsquo;t relate to the Spotify Wrapped discourse/rants happening online. Neither do I have Pritam as my top artist nor have I been listening to songs like Noida &amp;ndash; I&amp;rsquo;m not saying this to appear edgy.
+The truth is my listening activity (music + podcasts) has steadily dropped in the last two years, main reason being I can&amp;rsquo;t focus on work while listening to something. I have barely listened to a day&amp;rsquo;s worth of music and 3 hours of podcasts this past year.</description>
+    </item>
+    
     <item>
       <title>Social Media Rant</title>
       <link>https://dodhia.in/blog/social-media-rant/</link>
@@ -98,8 +108,9 @@ JavaScript, like many programming languages, was created to solve a problem. A s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dodhia.in/work/</guid>
-      <description>SAS Senior Associate Software Developer Sep 2023-Present
- Infosys Ltd. Technology Analyst Jan 2023-Sep 2023
+      <description>(Last updated on 03/12/2023)
+SAS Senior Associate Software Developer Sep 2023-Present
+ Super secret stuff I am not supposed to talk about.   Infosys Ltd. Technology Analyst Jan 2023-Sep 2023
  Enhanced and facilitated the introduction of new steel materials in ArcelorMittal&amp;rsquo;s Sales Portal: CoMet2. Investigated and strategised a performance improvement plan for a data-intensive process.  Senior Systems Engineer Jul 2022-Dec 2022
  Successfully introduced two new metal shapes for quality material, within a span of 6 months, in CoMet2 with zero down-time and defects.</description>
     </item>
