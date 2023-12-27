@@ -6,7 +6,16 @@
     <description>Recent content on Mohit Dodhia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Dec 2023 17:16:44 +0530</lastBuildDate><atom:link href="https://dodhia.in/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Dec 2023 21:55:10 +0530</lastBuildDate><atom:link href="https://dodhia.in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primer on Font Types</title>
+      <link>https://dodhia.in/blog/primer-on-font-types/</link>
+      <pubDate>Wed, 27 Dec 2023 21:55:10 +0530</pubDate>
+      
+      <guid>https://dodhia.in/blog/primer-on-font-types/</guid>
+      <description>The target audience for this blog are non-designer folks like me who have little to no clue about the various types of font files and when to use which. What prompted me to write this blog is replacing the font on this blog with &amp;ldquo;Space Grotesk&amp;rdquo; family. I downloaded the zip of the font which contained three folders: otf/, ttf/ and woff2/. I had no idea what was the difference between these files so I looked them up, and here&amp;rsquo;s what I found.</description>
+    </item>
+    
     <item>
       <title>Spotify Wrapped 2023</title>
       <link>https://dodhia.in/blog/spotify-wrapped-2023/</link>
@@ -81,7 +90,7 @@ JavaScript, like many programming languages, was created to solve a problem. A s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dodhia.in/bookmarks/</guid>
-      <description>Blogs  The worst mistake of computer science  This time, it feels different  Reading the Mahabharata by the Tungabhadra  Scaling with common sense  Unpopular tech/software engineering opinions - 2022 edition  Leave Scrum to Rugby, I Like Getting Stuff Done  Your Manager Can’t Code? They Shouldn’t Be Your Manager  Why engineers should focus on writing  Clear Writing by Shreyas Doshi  High Agency: what is it, why its important, and how to cultivate it   </description>
+      <description>Blogs  The worst mistake of computer science  This time, it feels different  Reading the Mahabharata by the Tungabhadra  Scaling with common sense  Unpopular tech/software engineering opinions - 2022 edition  Leave Scrum to Rugby, I Like Getting Stuff Done  Your Manager Can’t Code? They Shouldn’t Be Your Manager  Why engineers should focus on writing  Clear Writing by Shreyas Doshi  High Agency: what is it, why its important, and how to cultivate it   Educational  How I write HTTP services after eight years   </description>
     </item>
     
     <item>

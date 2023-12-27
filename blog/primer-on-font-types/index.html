@@ -18,9 +18,8 @@
     <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff" />
     <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1b1b1b" />
 
-    <link rel="alternate" type="application/rss+xml" href="https://dodhia.in/tags/crypto/index.xml" title="Mohit Dodhia" />
     
-        <title>crypto | Mohit Dodhia</title>
+        <title>Primer on Font Types | Mohit Dodhia</title>
     
 
     
@@ -77,25 +76,67 @@
 
 
 
-<h1>crypto</h1>
-<ul class="post-list">
+
+
+<div id="single-header">
+  <h1>
+    Primer on Font Types
+  </h1>
+  <div id="single-meta">
     
-
-    <li>
-
-    <div style="display: grid; grid-template-columns: 7em auto">
-      <span class="date">May 29, 2022</span>
+    
+        <span class="datesub">Dec 27, 2023</span>
       
-      <a href="/blog/charlatans-of-web3/">Charlatans of Web3</a>
-      
-    </div>
+<span id="tags">
+  &nbsp;│&nbsp;
+   <span>
+    <a href="https://dodhia.in/tags/primer/">#primer</a>
+  </span>&nbsp;</span>
 
+
+  </div>
+</div>
+
+
+
+
+
+<main><p>The target audience for this blog are non-designer folks like me who have little to no clue about the various types of font files and when to use which. What prompted me to write this blog is replacing the font on this blog with &ldquo;Space Grotesk&rdquo; family. I downloaded the zip of the font which contained three folders: <code>otf/</code>, <code>ttf/</code> and <code>woff2/</code>. I had no idea what was the difference between these files so I looked them up, and here&rsquo;s what I found.</p>
+<h2 id="truetype-font-ttf">TrueType Font (TTF)</h2>
+<ul>
+<li>Font format developed by Apple in the 1980s, which was licensed to Microsoft.</li>
+<li>Requires only one file for screens and a separate PostScript file for printing.
+<ul>
+<li>PostScript fonts were created by Adobe.</li>
+<li>The font file has two parts: Printing information and Display for Screen information.</li>
+<li><strong>Pro</strong>: Can provide high-quality printing.</li>
+<li><strong>Con</strong>: Different versions for Mac and Windows which led to reliability issues across both systems.</li>
+</ul>
 </li>
+</ul>
+<h2 id="opentype-font-otf">OpenType Font (OTF)</h2>
+<ul>
+<li>Jointly created by Adobe and Microsoft.</li>
+<li>Based on TTF with support for expanded character sets like ligatures, glyphs, etc.</li>
+</ul>
+<h2 id="web-open-format-font-woff">Web Open Format Font (WOFF)</h2>
+<ul>
+<li>WOFF1 was developed by Mozilla, Opera and Microsoft.</li>
+<li>This is a web-exclusive and compressed version of the above-mentioned formats.</li>
+<li>Unlike TTF and OTF, this font cannot be installed on a system.</li>
+<li>Best suited for web as compressed files means faster loadtimes on a website.</li>
+<li>WOFF2 was developed by Google with improved compression.</li>
+</ul>
+<h2 id="use-cases">Use Cases</h2>
+<ul>
+<li>Documentation: TTF can be used as expanded character sets are usually not required &ndash; if required, go for OTF.</li>
+<li>Designing: OTF should be preferred as the extra character data may be useful. SVG fonts (new version of OTF) can also be used.</li>
+<li>Printing: Definitely OTF.</li>
+<li>Web Development: WOFF2 because built for the web with better performance.</li>
+</ul>
+</main>
 
 
-
-    
-  </ul>
 
 
 <br>

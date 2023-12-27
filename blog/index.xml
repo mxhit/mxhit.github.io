@@ -6,7 +6,16 @@
     <description>Recent content in Blogs on Mohit Dodhia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Dec 2023 17:16:44 +0530</lastBuildDate><atom:link href="https://dodhia.in/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Dec 2023 21:55:10 +0530</lastBuildDate><atom:link href="https://dodhia.in/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primer on Font Types</title>
+      <link>https://dodhia.in/blog/primer-on-font-types/</link>
+      <pubDate>Wed, 27 Dec 2023 21:55:10 +0530</pubDate>
+      
+      <guid>https://dodhia.in/blog/primer-on-font-types/</guid>
+      <description>The target audience for this blog are non-designer folks like me who have little to no clue about the various types of font files and when to use which. What prompted me to write this blog is replacing the font on this blog with &amp;ldquo;Space Grotesk&amp;rdquo; family. I downloaded the zip of the font which contained three folders: otf/, ttf/ and woff2/. I had no idea what was the difference between these files so I looked them up, and here&amp;rsquo;s what I found.</description>
+    </item>
+    
     <item>
       <title>Spotify Wrapped 2023</title>
       <link>https://dodhia.in/blog/spotify-wrapped-2023/</link>
