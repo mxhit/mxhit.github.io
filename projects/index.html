@@ -40,15 +40,15 @@
         }
     </style>
 
-    
-    <link href="/fonts/Inter-Regular.woff2?v=4.0" rel="preload" type="font/woff2" as="font" crossorigin="">
-    <link href="/fonts/Inter-Italic.woff2?v=4.0" rel="preload" type="font/woff2" as="font" crossorigin="">
-    <link href="/fonts/Inter-Bold.woff2?v=4.0" rel="preload" type="font/woff2" as="font" crossorigin="">
-    <link href="/fonts/iosevka-regular.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
-    <link href="/fonts/iosevka-extended.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+
+    <link href="/fonts/Inter-Regular.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+    <link href="/fonts/Inter-Italic.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+    <link href="/fonts/Inter-Bold.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+    <link href="/fonts/Inter-SemiBold.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+    <link href="/fonts/iosevka-light.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
 
     
-    <link rel="stylesheet" type="text/css" href="/style.min.fb0debc69e4260e5a2ede92cf03e2e587daecd85ea13d9402ae769bc33266214.css" media="all">
+    <link rel="stylesheet" type="text/css" href="/style.min.c0f89ac3ffc4d6dd52e1152f3d25d091b3157a990bbe5061bc11c1479775bdf3.css" media="all">
   </head>
 
   <body>
@@ -77,7 +77,6 @@
 
 
 
-
 <div id="single-header">
   <h1>
     Projects
@@ -93,14 +92,14 @@
 
 
 
-<main><h3 id="portfolio-website--blog">Portfolio Website + Blog</h3>
+<main><h2 id="portfolio-website--blog">Portfolio Website + Blog</h2>
 <ul>
 <li>The website you are currently reading on.</li>
 <li>Developed using <a href="https://gohugo.io/"  target="_blank" rel="noreferrer nofollow">Hugo</a>
  with the <a href="https://github.com/adityatelange/hugo-PaperMod/"  target="_blank" rel="noreferrer nofollow">PaperMod</a>
  theme.</li>
 </ul>
-<h3 id="personal-website"><del>Personal Website</del></h3>
+<h2 id="personal-website"><del>Personal Website</del></h2>
 <ul>
 <li>Developed a single-page website by tinkering with <a href="https://reactjs.org/"  target="_blank" rel="noreferrer nofollow">React.js</a>
  and <a href="https://tailwindcss.com/"  target="_blank" rel="noreferrer nofollow">TailwindCSS</a>
@@ -114,7 +113,7 @@
 <li><a href="https://mxhit.netlify.app/"  target="_blank" rel="noreferrer nofollow">Demo Link</a>
 </li>
 </ul>
-<h3 id="jwt-using-spring-security">JWT using Spring Security</h3>
+<h2 id="jwt-using-spring-security">JWT using Spring Security</h2>
 <ul>
 <li>The aim of this project was to tinker around with <a href="https://spring.io/projects/spring-security"  target="_blank" rel="noreferrer nofollow">Spring Security</a>
  and implement <a href="https://jwt.io/"  target="_blank" rel="noreferrer nofollow">JWT</a>
@@ -123,7 +122,7 @@
 <li><a href="https://github.com/mxhit/spring-jwt-auth"  target="_blank" rel="noreferrer nofollow">GitHub Repository</a>
 </li>
 </ul>
-<h3 id="authentication-using-nodejs-and-expressjs">Authentication using Node.js and Express.js</h3>
+<h2 id="authentication-using-nodejs-and-expressjs">Authentication using Node.js and Express.js</h2>
 <ul>
 <li>Implemented a simple and impractical authentication to explore <a href="https://nodejs.org/"  target="_blank" rel="noreferrer nofollow">Node.js</a>
  and <a href="https://expressjs.com/"  target="_blank" rel="noreferrer nofollow">Express</a>
@@ -133,7 +132,7 @@
 <li><a href="https://github.com/mxhit/node-express-user-authentication"  target="_blank" rel="noreferrer nofollow">GitHub Repository</a>
 </li>
 </ul>
-<h3 id="generating-pdf-files-using-puppeteer">Generating PDF files using Puppeteer</h3>
+<h2 id="generating-pdf-files-using-puppeteer">Generating PDF files using Puppeteer</h2>
 <ul>
 <li>A Proof-of-Concept <a href="https://nodejs.org/"  target="_blank" rel="noreferrer nofollow">Node.js</a>
  application using <a href="https://pptr.dev/"  target="_blank" rel="noreferrer nofollow">Puppeteer</a>
@@ -142,7 +141,7 @@
 <li><a href="https://github.com/mxhit/puppeteer-poc"  target="_blank" rel="noreferrer nofollow">GitHub Repository</a>
 </li>
 </ul>
-<h3 id="task-manager">Task Manager</h3>
+<h2 id="task-manager">Task Manager</h2>
 <ul>
 <li>A Proof-of-Concept CRUD app to explore <a href="https://nextjs.org/"  target="_blank" rel="noreferrer nofollow">Next.js</a>
 , <a href="https://www.prisma.io/"  target="_blank" rel="noreferrer nofollow">Prisma</a>
@@ -181,7 +180,7 @@
     } else if (key === "t") {
       e.preventDefault();
       e.stopPropagation();
-      window.location.href = "/tags";
+      window.location.href = `https:
     } else if (key === "i") {
       e.preventDefault();
       e.stopPropagation();
@@ -211,7 +210,7 @@
       for (var i = 0; i < anchors.length; i++) {
         var anchorId = anchors[i].getAttribute("id");
         var link = document.querySelector(
-          'nav ul li a[href="#' + anchorId + '"]'
+          'nav ul li a[href="#' + anchorId + '"]',
         );
         if (link) {
           link.classList.remove("active-toc");
@@ -224,7 +223,7 @@
         if (scrollTop > offsetTop - 75) {
           var anchorId = anchors[i].getAttribute("id");
           var link = document.querySelector(
-            'nav ul li a[href="#' + anchorId + '"]'
+            'nav ul li a[href="#' + anchorId + '"]',
           );
           if (link) {
             link.classList.add("active-toc");
@@ -234,7 +233,7 @@
       }
     });
   }
-  setTimeout(scrollHandler, 100)
+  setTimeout(scrollHandler, 100);
 </script>
 
 <script defer>
@@ -468,7 +467,7 @@ window.store = {
     "https:\/\/dodhia.in\/work\/": {
         "title": "Work",
         "tags": [],
-        "content": "(Last updated on 03/12/2023)\nSAS Senior Associate Software Developer Sep 2023-Present\n Super secret stuff I am not supposed to talk about.   Infosys Ltd. Technology Analyst Jan 2023-Sep 2023\n Enhanced and facilitated the introduction of new steel materials in ArcelorMittal\u0026rsquo;s Sales Portal: CoMet2. Investigated and strategised a performance improvement plan for a data-intensive process.  Senior Systems Engineer Jul 2022-Dec 2022\n Successfully introduced two new metal shapes for quality material, within a span of 6 months, in CoMet2 with zero down-time and defects.  Systems Engineer Apr 2021-Jun 2022\n Implemented several enhancements and QOL updates across multiple sales channels in CoMet2. Made the switch from BAU to Evolutive based as per ArcelorMittal\u0026rsquo;s request.   Team Lead\u0026#39;s Recommendation on LinkedIn    MVP Award for Q4 (Oct-Dec, 2021)    MST Award for Q2 (Apr-Jun, 2022)    Client\u0026#39;s Feedback    Shukul Infotech Pvt. Ltd. Junior Java Developer Feb 2020-Apr 2021\n Developed an in-house HRMS web solution called WorkWithDaddy which is capable of easing an HR team’s work. Developed another in-house web solution called Resource Manager which is a supposed add-on for the above-mentioned HRMS solution and helps an organisation manage their resources. Developed a dashboard along with REST APIs for Android and iOS app of an anti-theft management tool called MobiYoddha. Developed REST APIs and an admin panel for a Scrabble-like game along with quizzes covering various subjects for Android and iOS.  Java Developer Trainee Jun 2019-Jan 2020\n Underwent training while also developing an in-house File Management solution where I learnt all the tools and technologies that a Junior Java Developer is expected to know.  ", 
+        "content": "(Last updated on 03/12/2023)\nSAS Senior Associate Software Developer Sep 2023-Present\n Super secret stuff I am not supposed to talk about.  Infosys Ltd. Technology Analyst Jan 2023-Sep 2023\n Enhanced and facilitated the introduction of new steel materials in ArcelorMittal\u0026rsquo;s Sales Portal: CoMet2. Investigated and strategised a performance improvement plan for a data-intensive process.  Senior Systems Engineer Jul 2022-Dec 2022\n Successfully introduced two new metal shapes for quality material, within a span of 6 months, in CoMet2 with zero down-time and defects.  Systems Engineer Apr 2021-Jun 2022\n Implemented several enhancements and QOL updates across multiple sales channels in CoMet2. Made the switch from BAU to Evolutive based as per ArcelorMittal\u0026rsquo;s request.   Team Lead\u0026#39;s Recommendation on LinkedIn    MVP Award for Q4 (Oct-Dec, 2021)    MST Award for Q2 (Apr-Jun, 2022)    Client\u0026#39;s Feedback   Shukul Infotech Pvt. Ltd. Junior Java Developer Feb 2020-Apr 2021\n Developed an in-house HRMS web solution called WorkWithDaddy which is capable of easing an HR team’s work. Developed another in-house web solution called Resource Manager which is a supposed add-on for the above-mentioned HRMS solution and helps an organisation manage their resources. Developed a dashboard along with REST APIs for Android and iOS app of an anti-theft management tool called MobiYoddha. Developed REST APIs and an admin panel for a Scrabble-like game along with quizzes covering various subjects for Android and iOS.  Java Developer Trainee Jun 2019-Jan 2020\n Underwent training while also developing an in-house File Management solution where I learnt all the tools and technologies that a Junior Java Developer is expected to know.  ", 
         "url": "https:\/\/dodhia.in\/work\/"
     },
     
