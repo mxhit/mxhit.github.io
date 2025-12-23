@@ -6,7 +6,17 @@
     <description>Recent content on Mohit Dodhia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2024 22:18:32 +0530</lastBuildDate><atom:link href="https://dodhia.in/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Dec 2025 22:02:06 +0530</lastBuildDate><atom:link href="https://dodhia.in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 Ranked</title>
+      <link>https://dodhia.in/blog/2025-ranked/</link>
+      <pubDate>Tue, 23 Dec 2025 22:02:06 +0530</pubDate>
+      
+      <guid>https://dodhia.in/blog/2025-ranked/</guid>
+      <description>A ranked list of things I experienced this year.
+Movies  12 Angry Men (1957) Sinners Gladiator Top Gun: Maverick The Silence of the Lambs Sicario Dhurandhar Baramulla Mission Impossible: The Final Reckoning One Battle After Another  TV Shows  Ted Lasso Stranger Things: Season 5 Delhi Crime: Season 3 American Manhunt: O.J. Simpson American Manhunt: Osama bin Laden  Games  Elden Ring Nightreign Hollow Knight Hollow Knight: Silksong The Witcher 3 It Takes Two Marvel Rivals Star Wars Battlefront II Call of Duty: Black Ops 6 Hogwarts Legacy Call of Duty: Warzone  Blogs  Pixxel: Earth&amp;rsquo;s Honest Mirror On taste Third-order thinking: how to build a life that can’t trap you what women don&amp;rsquo;t understand about men Some terminal frustrations  Reads  Working Backwards: Insights, Stories, and Secrets from Inside Amazon Three Body Problem Berserk Fractal Mandala: A History of Ancient India The Rise of Endymion  Locations  Indore, Madhya Pradesh Jaipur, Rajasthan Sawai Madhopur, Rajasthan Khandwa, Madhya Pradesh Lonavala, Maharashtra  </description>
+    </item>
+    
     <item>
       <title>Books in 2023</title>
       <link>https://dodhia.in/blog/books-2023/</link>
@@ -57,16 +67,6 @@ The days that followed were filled with kite-flying and hogging Undhiyu with fam
     </item>
     
     <item>
-      <title>Danke Seb</title>
-      <link>https://dodhia.in/blog/danke-seb/</link>
-      <pubDate>Sun, 20 Nov 2022 23:57:19 +0530</pubDate>
-      
-      <guid>https://dodhia.in/blog/danke-seb/</guid>
-      <description>TL;DR: Sebastian Vettel has retired from Formula One and I am very sad.
- To give you some perspective, I started watching Formula One after the summer break of the 2018 season. Being a new follower of the sport, I was busy learning and remembering names, rules and concepts that were being thrown my way. As the season progressed towards the finale, I couldn&amp;rsquo;t help but naturally get drawn to two drivers: Charles Leclerc and Sebastian Vettel.</description>
-    </item>
-    
-    <item>
       <title>Migrating to GitHub Pages</title>
       <link>https://dodhia.in/blog/migrating-to-github-pages/</link>
       <pubDate>Wed, 05 Oct 2022 12:11:28 +0530</pubDate>
@@ -101,7 +101,7 @@ JavaScript, like many programming languages, was created to solve a problem. A s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dodhia.in/bookmarks/</guid>
-      <description>Blogs  The worst mistake of computer science This time, it feels different Reading the Mahabharata by the Tungabhadra Scaling with common sense Unpopular tech/software engineering opinions - 2022 edition Leave Scrum to Rugby, I Like Getting Stuff Done Your Manager Can’t Code? They Shouldn’t Be Your Manager Why engineers should focus on writing Clear Writing by Shreyas Doshi High Agency: what is it, why its important, and how to cultivate it No Hello  Educational  How I write HTTP services after eight years  </description>
+      <description>Blogs  The worst mistake of computer science This time, it feels different Reading the Mahabharata by the Tungabhadra Scaling with common sense Unpopular tech/software engineering opinions - 2022 edition Leave Scrum to Rugby, I Like Getting Stuff Done Your Manager Can’t Code? They Shouldn’t Be Your Manager Why engineers should focus on writing Clear Writing by Shreyas Doshi High Agency: what is it, why its important, and how to cultivate it No Hello Pixxel: Earth&amp;rsquo;s Honest Mirror Third-order thinking: how to build a life that can’t trap you  Educational  How I write HTTP services after eight years  </description>
     </item>
     
     <item>
@@ -128,9 +128,9 @@ JavaScript, like many programming languages, was created to solve a problem. A s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dodhia.in/work/</guid>
-      <description>(Last updated on 03/12/2023)
+      <description>(Last updated on 23/12/2025)
 SAS Senior Associate Software Developer Sep 2023-Present
- Super secret stuff I am not supposed to talk about.  Infosys Ltd. Technology Analyst Jan 2023-Sep 2023
+ Building SAS Marketing Decisioning  Infosys Ltd. Technology Analyst Jan 2023-Sep 2023
  Enhanced and facilitated the introduction of new steel materials in ArcelorMittal&amp;rsquo;s Sales Portal: CoMet2. Investigated and strategised a performance improvement plan for a data-intensive process.  Senior Systems Engineer Jul 2022-Dec 2022
  Successfully introduced two new metal shapes for quality material, within a span of 6 months, in CoMet2 with zero down-time and defects.</description>
     </item>
